@@ -1,0 +1,1001 @@
+Customer_ID,Age,City,Income,Membership_Tier,Credit_Score,Churned
+1,56,Paris,5000000.0,Platinum,564.0,0
+2,69,London,45727.67,Bronze,439.0,1
+3,46,Paris,42520.99,Silver,780.0,1
+4,32,Mumbai,27475.65,Silver,536.0,0
+5,60,Mumbai,94335.31,Silver,371.0,1
+6,25,Mumbai,90752.23,Bronze,489.0,0
+7,38,Mumbai,31874.31,Bronze,567.0,0
+8,56,New York,48947.44,Silver,620.0,0
+9,36,Mumbai,68662.9,Gold,406.0,0
+10,40,Tokyo,54009.82,Gold,531.0,0
+11,28,Tokyo,,Silver,,0
+12,28,New York,46844.54,Bronze,438.0,0
+13,41,Mumbai,99020.69,Silver,572.0,1
+14,70,Mumbai,48200.43,Bronze,780.0,1
+15,53,Mumbai,56730.65,Platinum,715.0,0
+16,57,Paris,37096.45,Gold,805.0,1
+17,41,London,71755.26,Gold,723.0,1
+18,20,Paris,62303.04,Platinum,706.0,0
+19,39,London,45159.61,Bronze,689.0,0
+20,70,Mumbai,33906.89,Gold,641.0,0
+21,19,Mumbai,88090.87,Bronze,792.0,1
+22,41,Paris,27889.13,Platinum,491.0,0
+23,61,Paris,70076.31,Bronze,798.0,0
+24,47,London,,Gold,,0
+25,55,Tokyo,74144.23,Gold,526.0,0
+26,19,London,79405.98,Bronze,,0
+27,38,Paris,81895.67,Bronze,438.0,0
+28,50,Paris,56775.83,Gold,448.0,0
+29,29,New York,91680.07,Silver,414.0,1
+30,39,Paris,106155.83,Bronze,749.0,1
+31,61,New York,,Bronze,,0
+32,42,Tokyo,50979.9,Bronze,403.0,1
+33,66,London,62983.55,Gold,572.0,0
+34,44,London,50446.4,Silver,305.0,0
+35,59,New York,47522.6,Bronze,446.0,0
+36,45,London,49265.23,Bronze,483.0,1
+37,33,Paris,94315.12,Bronze,327.0,1
+38,32,Mumbai,75437.64,Bronze,849.0,0
+39,64,New York,50381.08,Silver,418.0,1
+40,68,London,,Bronze,,0
+41,61,New York,29110.71,Bronze,670.0,0
+42,72,New York,70068.58,Gold,543.0,0
+43,69,Mumbai,17568.88,Bronze,517.0,0
+44,74,Paris,65859.87,Silver,476.0,0
+45,20,New York,38688.73,Silver,,1
+46,54,London,61836.12,Silver,357.0,0
+47,68,Tokyo,61277.13,Silver,568.0,0
+48,24,New York,62411.8,Silver,607.0,0
+49,38,New York,52111.56,Gold,587.0,0
+50,26,Mumbai,51454.29,Silver,404.0,1
+51,56,Paris,45584.19,Silver,527.0,0
+52,35,Tokyo,69677.85,Gold,546.0,0
+53,21,London,76103.85,Silver,793.0,1
+54,42,Tokyo,35620.55,Bronze,382.0,0
+55,31,London,,Bronze,,0
+56,67,Paris,63931.64,Bronze,,0
+57,26,London,63675.42,Gold,654.0,0
+58,43,Mumbai,63335.39,Gold,509.0,0
+59,70,Mumbai,51959.3,Platinum,746.0,0
+60,19,,,Silver,,1
+61,37,Mumbai,72360.57,Silver,771.0,1
+62,45,Tokyo,62820.73,Bronze,669.0,0
+63,64,Paris,70118.8,Silver,791.0,0
+64,24,London,,Silver,,1
+65,61,London,22981.19,Platinum,666.0,0
+66,25,Mumbai,78869.28,Bronze,483.0,0
+67,64,Mumbai,,Silver,,0
+68,52,New York,,Silver,,1
+69,31,Paris,76049.42,Silver,674.0,0
+70,34,Tokyo,52033.58,Silver,836.0,0
+71,53,London,,Gold,,0
+72,67,New York,49846.4,Bronze,549.0,1
+73,57,New York,66047.98,Gold,,0
+74,21,London,44292.94,Silver,372.0,1
+75,19,Tokyo,78029.49,Gold,581.0,0
+76,23,New York,57222.75,Gold,659.0,0
+77,71,,,Bronze,,0
+78,59,Paris,75057.51,Bronze,510.0,0
+79,21,Tokyo,53608.86,Platinum,451.0,1
+80,71,New York,78963.54,Silver,304.0,0
+81,46,Tokyo,79591.86,Platinum,494.0,0
+82,35,London,33303.92,Bronze,582.0,0
+83,43,Mumbai,82185.2,Silver,763.0,0
+84,61,New York,30759.28,Gold,412.0,0
+85,51,Paris,83431.61,Platinum,570.0,0
+86,27,London,100567.14,Bronze,462.0,1
+87,53,Tokyo,77496.69,Gold,,0
+88,31,London,16860.39,Silver,404.0,0
+89,48,New York,,Bronze,,0
+90,65,Tokyo,104922.58,Silver,461.0,0
+91,32,Mumbai,53939.37,Silver,650.0,0
+92,25,London,59305.93,Platinum,733.0,1
+93,31,New York,36230.27,Silver,439.0,0
+94,40,Paris,66241.59,Bronze,770.0,0
+95,74,Tokyo,85383.54,Bronze,431.0,0
+96,57,London,73954.74,Silver,386.0,1
+97,38,,,Bronze,,0
+98,33,Mumbai,60660.54,Gold,667.0,0
+99,62,Mumbai,27386.53,Bronze,428.0,0
+100,35,Paris,63419.42,Platinum,545.0,0
+101,64,Paris,11670.96,Platinum,677.0,0
+102,70,,,Silver,,0
+103,41,New York,92487.64,Platinum,732.0,0
+104,43,Paris,66502.67,Gold,768.0,0
+105,42,Paris,63588.34,Silver,745.0,1
+106,62,Tokyo,96415.61,Bronze,780.0,0
+107,58,Mumbai,54588.0,Silver,593.0,0
+108,46,New York,,Silver,,0
+109,32,Mumbai,62586.14,Gold,549.0,0
+110,62,Mumbai,67600.95,Silver,601.0,0
+111,18,Paris,35653.9,Gold,324.0,0
+112,42,Tokyo,50359.06,Silver,369.0,0
+113,24,London,32049.64,Bronze,411.0,0
+114,26,Tokyo,58095.1,Platinum,663.0,1
+115,41,Tokyo,67808.05,Silver,602.0,0
+116,18,Mumbai,37799.24,Bronze,770.0,1
+117,61,Tokyo,100983.58,Silver,390.0,0
+118,25,New York,65562.12,Bronze,829.0,0
+119,41,Mumbai,61155.91,Silver,491.0,0
+120,28,New York,75393.16,Silver,541.0,0
+121,68,London,43421.44,Silver,,0
+122,34,Mumbai,63269.55,Platinum,644.0,0
+123,25,London,45662.68,Silver,479.0,1
+124,52,Mumbai,91173.6,Bronze,802.0,1
+125,52,Paris,38827.21,Silver,502.0,0
+126,50,Tokyo,61263.31,Platinum,491.0,0
+127,22,Paris,66586.32,Bronze,304.0,0
+128,59,London,67896.51,Bronze,536.0,0
+129,56,Tokyo,48375.3,Bronze,610.0,0
+130,58,Mumbai,42089.81,Bronze,848.0,1
+131,45,Tokyo,48664.1,Gold,355.0,0
+132,24,New York,70566.51,Gold,742.0,0
+133,26,Tokyo,57123.08,Bronze,536.0,0
+134,25,New York,75924.18,Silver,496.0,0
+135,29,Tokyo,69540.07,Bronze,813.0,0
+136,51,New York,14461.75,Platinum,748.0,0
+137,50,,,Platinum,,0
+138,65,Paris,105009.1,Bronze,329.0,0
+139,72,Mumbai,86505.38,Gold,407.0,0
+140,40,,,Gold,,1
+141,41,Paris,38812.16,Bronze,737.0,0
+142,54,Mumbai,69551.07,Bronze,756.0,0
+143,52,Mumbai,74795.0,Silver,794.0,0
+144,61,New York,54925.07,Gold,546.0,0
+145,57,London,66334.84,Platinum,842.0,0
+146,39,London,90193.25,Gold,738.0,1
+147,44,Paris,42854.51,Gold,577.0,0
+148,52,London,38834.01,Silver,410.0,0
+149,18,Tokyo,73853.99,Gold,684.0,0
+150,52,London,69150.85,Gold,490.0,0
+151,54,Paris,80576.77,Bronze,789.0,1
+152,64,London,71395.88,Silver,725.0,1
+153,31,Tokyo,48644.9,Gold,704.0,0
+154,20,New York,68643.85,Bronze,634.0,0
+155,18,Paris,37157.47,Gold,508.0,0
+156,22,New York,54993.63,Bronze,321.0,1
+157,43,New York,70055.98,Silver,507.0,0
+158,72,New York,52789.72,Gold,307.0,1
+159,31,Mumbai,109361.04,Bronze,828.0,0
+160,56,Mumbai,22156.32,Bronze,465.0,0
+161,44,New York,49050.19,Silver,795.0,0
+162,26,Paris,41244.4,Gold,728.0,1
+163,32,Tokyo,45993.02,Bronze,462.0,1
+164,32,Tokyo,47140.04,Platinum,665.0,0
+165,43,London,33471.59,Bronze,825.0,0
+166,59,Paris,75054.04,Platinum,538.0,0
+167,30,Mumbai,49058.09,Platinum,371.0,0
+168,68,New York,63271.47,Silver,744.0,0
+169,49,London,51303.48,Silver,,0
+170,56,Tokyo,46182.39,Silver,568.0,1
+171,66,Mumbai,93445.58,Silver,714.0,0
+172,69,Mumbai,78458.64,Bronze,544.0,1
+173,49,New York,22635.99,Bronze,359.0,0
+174,21,Tokyo,20517.25,Bronze,305.0,0
+175,47,,,Silver,,0
+176,54,Mumbai,49602.93,Bronze,516.0,0
+177,40,New York,27018.35,Silver,325.0,0
+178,56,Paris,80914.7,Platinum,304.0,0
+179,62,Tokyo,63382.48,Bronze,831.0,0
+180,32,Mumbai,65031.42,Silver,689.0,0
+181,60,Paris,76190.79,Silver,747.0,0
+182,46,Paris,33800.46,Gold,445.0,0
+183,53,Paris,27369.98,Platinum,687.0,1
+184,30,Mumbai,91619.09,Gold,548.0,1
+185,49,Mumbai,31256.66,Platinum,,0
+186,24,London,35555.24,Bronze,761.0,0
+187,68,Tokyo,39551.29,Gold,312.0,0
+188,39,New York,101598.92,Gold,683.0,1
+189,45,Paris,69867.67,Bronze,698.0,0
+190,19,London,79308.16,Platinum,318.0,0
+191,59,New York,63923.35,Bronze,790.0,0
+192,62,London,47962.26,Silver,718.0,0
+193,74,Mumbai,72625.83,Bronze,636.0,0
+194,70,Paris,28867.68,Silver,718.0,0
+195,23,New York,38094.33,Gold,421.0,0
+196,45,New York,74659.5,Silver,731.0,0
+197,45,New York,32854.9,Silver,343.0,0
+198,61,New York,56218.37,Bronze,616.0,0
+199,61,,,Gold,,1
+200,37,London,49426.76,Bronze,444.0,0
+201,47,Paris,20977.63,Silver,626.0,1
+202,28,Mumbai,47421.42,Platinum,662.0,0
+203,72,Mumbai,43500.63,Gold,349.0,0
+204,45,Mumbai,63228.8,Silver,364.0,1
+205,42,Mumbai,62209.81,Gold,654.0,0
+206,56,London,67559.23,Gold,463.0,1
+207,50,Tokyo,46480.27,Gold,440.0,0
+208,18,Paris,70455.56,Silver,427.0,1
+209,74,New York,28879.87,Bronze,697.0,0
+210,44,Tokyo,,Bronze,,0
+211,74,,,Bronze,,0
+212,69,Tokyo,50014.06,Silver,489.0,1
+213,30,Paris,44934.04,Bronze,687.0,1
+214,58,New York,75786.31,Silver,728.0,1
+215,20,New York,47026.75,Bronze,583.0,1
+216,56,Paris,65467.53,Bronze,,0
+217,23,Paris,76265.93,Gold,493.0,0
+218,25,Mumbai,46273.62,Silver,586.0,0
+219,44,New York,,Bronze,,0
+220,26,Tokyo,80038.55,Gold,470.0,0
+221,54,London,35236.74,Bronze,458.0,0
+222,50,London,,Gold,,0
+223,68,Paris,46359.31,Gold,786.0,0
+224,59,Mumbai,36510.2,Bronze,803.0,0
+225,61,London,29270.97,Gold,670.0,0
+226,41,New York,36187.03,Silver,402.0,0
+227,32,Paris,61200.58,Silver,424.0,0
+228,71,Tokyo,27783.11,Bronze,612.0,0
+229,49,Paris,48985.46,Bronze,757.0,0
+230,49,Tokyo,76263.89,Platinum,529.0,0
+231,41,Paris,68980.22,Bronze,496.0,0
+232,58,Paris,49389.85,Silver,722.0,0
+233,69,Paris,93793.81,Silver,470.0,0
+234,66,Tokyo,97860.73,Silver,681.0,0
+235,66,Tokyo,60522.45,Bronze,472.0,0
+236,69,,,Bronze,,0
+237,29,London,77728.96,Gold,649.0,1
+238,56,Mumbai,14120.47,Bronze,,1
+239,19,Mumbai,89522.92,Bronze,303.0,0
+240,20,Mumbai,81671.7,Bronze,392.0,0
+241,66,Tokyo,95484.25,Silver,305.0,0
+242,54,Tokyo,65205.31,Gold,587.0,0
+243,66,London,52772.28,Bronze,445.0,1
+244,73,Mumbai,50997.98,Bronze,723.0,0
+245,34,Mumbai,49074.8,Bronze,,0
+246,66,Paris,79621.37,Gold,501.0,0
+247,19,Tokyo,74245.43,Silver,511.0,1
+248,19,Mumbai,62404.51,Silver,,0
+249,45,London,45556.37,Gold,675.0,0
+250,71,London,112584.25,Silver,746.0,0
+251,40,Mumbai,78247.49,Gold,405.0,0
+252,54,Tokyo,28045.76,Gold,700.0,0
+253,49,London,49674.88,Bronze,395.0,0
+254,50,Paris,78635.52,Bronze,687.0,1
+255,18,London,44009.22,Bronze,751.0,1
+256,36,New York,67030.96,Bronze,715.0,1
+257,19,New York,79015.93,Platinum,,0
+258,70,Tokyo,-7768.56,Silver,753.0,1
+259,61,Mumbai,57839.25,Bronze,590.0,0
+260,43,Tokyo,58624.18,Gold,833.0,0
+261,49,Tokyo,51758.55,Silver,,0
+262,23,Tokyo,,Bronze,,0
+263,49,Tokyo,73150.39,Bronze,814.0,0
+264,72,Paris,62841.02,Silver,692.0,0
+265,21,Paris,52523.45,Gold,615.0,0
+266,72,London,72652.43,Bronze,,1
+267,28,New York,60981.07,Bronze,569.0,0
+268,73,Tokyo,55385.99,Silver,524.0,0
+269,34,London,33754.41,Bronze,829.0,0
+270,55,New York,28746.9,Silver,412.0,0
+271,41,Mumbai,33375.4,Silver,550.0,0
+272,22,Paris,65566.58,Bronze,532.0,0
+273,69,New York,58418.43,Platinum,382.0,0
+274,51,Mumbai,30394.32,Silver,424.0,0
+275,23,New York,72918.36,Bronze,474.0,0
+276,39,Paris,,Silver,,1
+277,28,Paris,48030.13,Gold,346.0,0
+278,65,,,Gold,,0
+279,33,Tokyo,45817.47,Bronze,329.0,1
+280,50,New York,77089.21,Platinum,580.0,0
+281,26,,,Silver,,0
+282,23,Mumbai,41551.35,Bronze,,1
+283,33,Paris,90423.44,Bronze,667.0,0
+284,46,New York,86965.6,Bronze,794.0,0
+285,20,Paris,45339.88,Gold,324.0,0
+286,37,New York,45134.2,Bronze,789.0,0
+287,53,London,48143.44,Bronze,793.0,0
+288,36,Tokyo,49853.34,Gold,613.0,0
+289,43,New York,79010.76,Bronze,674.0,0
+290,20,Paris,,Bronze,,0
+291,36,London,77541.58,Bronze,633.0,0
+292,37,New York,73471.3,Bronze,654.0,0
+293,49,Mumbai,,Bronze,,0
+294,24,Tokyo,38812.29,Silver,347.0,0
+295,69,New York,67607.17,Bronze,,0
+296,58,London,16523.57,Bronze,758.0,1
+297,50,Mumbai,,Gold,,0
+298,57,London,58502.93,Silver,704.0,0
+299,56,London,68364.13,Silver,513.0,0
+300,35,,,Silver,,0
+301,57,London,48656.15,Bronze,747.0,1
+302,18,Mumbai,52211.64,Silver,557.0,0
+303,28,New York,87388.82,Silver,420.0,1
+304,45,Mumbai,52319.36,Bronze,353.0,0
+305,74,Mumbai,94984.83,Platinum,630.0,0
+306,42,Tokyo,75880.34,Bronze,540.0,0
+307,67,Mumbai,69150.75,Gold,829.0,1
+308,40,Mumbai,,Bronze,,0
+309,48,New York,78704.76,Gold,486.0,0
+310,47,Tokyo,50124.59,Silver,561.0,0
+311,59,Paris,36111.2,Gold,663.0,0
+312,52,New York,70256.87,Bronze,790.0,1
+313,24,,,Silver,,0
+314,33,Paris,44755.17,Silver,538.0,0
+315,43,Mumbai,59797.68,Gold,603.0,0
+316,65,London,104368.43,Silver,597.0,0
+317,74,Tokyo,46261.68,Silver,375.0,1
+318,69,London,50835.67,Silver,632.0,0
+319,66,Paris,,Bronze,,0
+320,19,,,Silver,,1
+321,18,New York,68856.13,Bronze,371.0,0
+322,65,Tokyo,84118.54,Platinum,,0
+323,29,New York,53858.1,Gold,311.0,0
+324,22,New York,80523.09,Platinum,440.0,0
+325,54,Tokyo,65829.0,Bronze,316.0,0
+326,49,Tokyo,45386.36,Gold,362.0,1
+327,72,Paris,56043.91,Gold,552.0,0
+328,26,New York,,Silver,,0
+329,58,,,Silver,,1
+330,52,Paris,63054.36,Bronze,819.0,0
+331,36,Mumbai,71764.0,Gold,389.0,0
+332,65,Mumbai,70173.36,Silver,474.0,0
+333,33,Mumbai,11365.73,Bronze,375.0,1
+334,20,Paris,58053.84,Bronze,699.0,0
+335,37,New York,29811.56,Platinum,370.0,0
+336,41,Paris,54485.45,Gold,479.0,1
+337,71,Paris,57524.21,Platinum,423.0,0
+338,73,Mumbai,79522.97,Silver,680.0,0
+339,50,London,59397.69,Bronze,592.0,1
+340,41,New York,65184.36,Bronze,494.0,0
+341,69,Mumbai,75861.13,Bronze,527.0,0
+342,28,London,84555.05,Bronze,730.0,1
+343,66,London,57539.72,Bronze,735.0,0
+344,25,Tokyo,61883.59,Bronze,760.0,0
+345,53,New York,60200.47,Silver,320.0,1
+346,55,London,49148.02,Platinum,363.0,1
+347,57,,,Silver,,0
+348,37,Tokyo,14562.28,Gold,326.0,0
+349,52,New York,38466.78,Silver,610.0,0
+350,65,Paris,24427.38,Bronze,584.0,0
+351,42,Mumbai,85103.97,Bronze,580.0,0
+352,52,London,63768.32,Bronze,,0
+353,42,London,57481.22,Bronze,523.0,0
+354,46,Mumbai,45650.3,Silver,445.0,0
+355,35,London,60595.59,Bronze,329.0,0
+356,63,Tokyo,43040.4,Bronze,344.0,0
+357,35,New York,63480.37,Bronze,770.0,0
+358,19,Tokyo,64914.68,Platinum,333.0,0
+359,71,London,42772.33,Gold,726.0,0
+360,52,Paris,42390.76,Gold,520.0,0
+361,33,New York,79243.99,Bronze,833.0,0
+362,58,New York,58942.8,Gold,666.0,0
+363,53,Mumbai,44379.59,Gold,849.0,1
+364,50,Mumbai,52589.87,Silver,415.0,0
+365,21,Paris,39788.12,Platinum,538.0,1
+366,50,New York,58656.33,Bronze,634.0,0
+367,31,Paris,76632.57,Platinum,740.0,0
+368,38,Mumbai,59446.59,Platinum,447.0,1
+369,65,Mumbai,107272.67,Bronze,308.0,0
+370,37,New York,68427.19,Silver,587.0,0
+371,73,,,Platinum,,0
+372,25,,,Bronze,,0
+373,24,Mumbai,55229.33,Silver,816.0,0
+374,20,Mumbai,44419.72,Platinum,577.0,0
+375,34,Tokyo,16687.1,Silver,599.0,0
+376,50,Tokyo,79485.24,Bronze,434.0,0
+377,65,Paris,49770.99,Silver,446.0,1
+378,29,Paris,44792.0,Bronze,789.0,0
+379,68,London,64211.4,Silver,777.0,0
+380,39,London,70249.99,Bronze,458.0,1
+381,72,New York,53584.5,Silver,683.0,0
+382,39,Paris,59947.97,Silver,462.0,0
+383,63,Mumbai,,Gold,,0
+384,47,Paris,52796.13,Silver,488.0,0
+385,55,Mumbai,66046.67,Silver,714.0,0
+386,55,Tokyo,26815.11,Silver,638.0,0
+387,62,Paris,35173.62,Bronze,480.0,1
+388,68,Tokyo,72110.8,Silver,587.0,0
+389,71,London,34128.83,Bronze,486.0,0
+390,25,London,64682.75,Platinum,437.0,0
+391,44,New York,57060.02,Bronze,429.0,0
+392,44,Paris,52710.65,Silver,493.0,1
+393,51,Tokyo,43430.74,Silver,615.0,0
+394,38,Mumbai,78186.8,Silver,443.0,0
+395,47,London,94597.82,Bronze,315.0,1
+396,50,London,66003.84,Silver,601.0,0
+397,45,Mumbai,66449.81,Silver,722.0,0
+398,64,Tokyo,46353.39,Gold,544.0,0
+399,50,Tokyo,36078.06,Bronze,406.0,1
+400,22,Paris,59205.22,Silver,387.0,0
+401,65,Paris,40525.01,Silver,428.0,1
+402,36,New York,24547.8,Silver,640.0,0
+403,21,London,76068.92,Silver,303.0,0
+404,52,Paris,77043.34,Silver,626.0,1
+405,66,Tokyo,42823.22,Bronze,709.0,0
+406,34,Mumbai,64879.29,Bronze,605.0,0
+407,61,Tokyo,80039.05,Bronze,524.0,0
+408,45,London,64100.53,Bronze,647.0,0
+409,47,Tokyo,36136.91,Silver,620.0,0
+410,46,New York,55342.13,Silver,480.0,0
+411,63,London,86536.19,Bronze,685.0,0
+412,70,,,Platinum,,0
+413,23,New York,70782.64,Bronze,830.0,0
+414,52,London,66832.58,Gold,709.0,0
+415,58,Mumbai,42889.77,Silver,595.0,0
+416,54,New York,47583.1,Bronze,470.0,1
+417,41,New York,66777.3,Bronze,630.0,0
+418,46,London,76337.44,Silver,792.0,0
+419,66,Paris,81998.1,Bronze,494.0,1
+420,63,New York,42837.89,Platinum,311.0,0
+421,70,New York,68662.41,Silver,494.0,1
+422,48,Mumbai,83740.88,Platinum,789.0,0
+423,52,Tokyo,40258.36,Bronze,481.0,0
+424,50,London,89734.94,Gold,615.0,0
+425,69,London,92778.82,Silver,329.0,0
+426,38,Paris,112501.73,Gold,,0
+427,49,Paris,64618.67,Bronze,680.0,0
+428,40,London,64728.49,Silver,743.0,0
+429,50,Paris,76539.89,Silver,597.0,0
+430,20,Mumbai,75956.05,Gold,660.0,0
+431,35,London,82527.34,Bronze,673.0,0
+432,42,Paris,75680.66,Gold,602.0,0
+433,59,London,57878.76,Bronze,,0
+434,48,Tokyo,84439.94,Gold,545.0,1
+435,71,New York,38574.92,Gold,536.0,0
+436,20,London,60117.05,Gold,833.0,1
+437,57,New York,,Silver,,0
+438,63,Paris,34995.07,Silver,767.0,0
+439,41,New York,46450.49,Platinum,662.0,0
+440,67,,,Bronze,,0
+441,49,Tokyo,67878.24,Silver,635.0,0
+442,64,Paris,42499.49,Silver,461.0,0
+443,39,London,51676.12,Gold,459.0,0
+444,40,Paris,36384.36,Bronze,773.0,0
+445,19,Mumbai,79609.7,Silver,621.0,0
+446,44,New York,54882.37,Gold,,0
+447,59,Mumbai,95843.12,Bronze,723.0,0
+448,19,London,61622.0,Platinum,372.0,1
+449,43,Tokyo,55605.19,Bronze,500.0,0
+450,34,Paris,53663.56,Bronze,821.0,0
+451,57,New York,55116.0,Bronze,804.0,0
+452,50,Paris,,Bronze,,0
+453,26,London,110248.15,Platinum,359.0,0
+454,60,Paris,53222.81,Bronze,620.0,0
+455,71,New York,53872.93,Silver,734.0,0
+456,65,London,61311.88,Bronze,707.0,0
+457,56,Paris,81805.49,Silver,685.0,1
+458,46,Tokyo,31580.31,Silver,377.0,1
+459,59,London,69101.85,Bronze,493.0,0
+460,72,London,43651.5,Bronze,584.0,0
+461,43,Tokyo,71065.45,Gold,826.0,0
+462,52,Mumbai,50124.8,Bronze,823.0,0
+463,67,New York,13917.95,Silver,455.0,0
+464,42,Mumbai,67391.55,Bronze,639.0,0
+465,41,Paris,67222.9,Gold,424.0,1
+466,30,Tokyo,48418.39,Bronze,579.0,0
+467,24,Mumbai,47233.12,Silver,427.0,0
+468,74,London,33772.55,Bronze,613.0,0
+469,53,Paris,75462.0,Platinum,631.0,0
+470,62,Paris,77644.32,Bronze,449.0,0
+471,37,Mumbai,42418.98,Gold,753.0,1
+472,18,Mumbai,49201.31,Silver,335.0,0
+473,25,Tokyo,58734.22,Bronze,719.0,0
+474,63,New York,105417.31,Gold,321.0,0
+475,33,Mumbai,70902.43,Bronze,505.0,0
+476,31,Mumbai,41131.69,Gold,655.0,0
+477,29,London,66075.61,Platinum,739.0,0
+478,68,Paris,32466.17,Gold,395.0,0
+479,40,New York,74359.81,Bronze,463.0,1
+480,32,London,93510.95,Gold,447.0,0
+481,45,Tokyo,93595.83,Silver,829.0,0
+482,51,Tokyo,74697.87,Gold,593.0,0
+483,19,Mumbai,48331.75,Silver,494.0,0
+484,49,Mumbai,33981.96,Gold,779.0,0
+485,40,Tokyo,31995.9,Silver,422.0,0
+486,39,Mumbai,3875.66,Silver,699.0,0
+487,68,New York,73877.12,Bronze,751.0,0
+488,42,Mumbai,57943.29,Gold,403.0,0
+489,39,Paris,78184.32,Silver,761.0,1
+490,39,Mumbai,88560.63,Silver,695.0,0
+491,66,London,61998.11,Gold,636.0,0
+492,69,New York,62919.23,Silver,441.0,0
+493,59,London,50713.59,Bronze,616.0,1
+494,23,London,,Silver,,0
+495,32,Paris,74569.4,Silver,700.0,0
+496,71,New York,56512.5,Silver,609.0,0
+497,60,New York,53619.85,Bronze,794.0,0
+498,54,New York,59633.66,Bronze,408.0,0
+499,50,New York,77726.6,Bronze,671.0,0
+500,25,,,Gold,,0
+501,70,Paris,58669.43,Bronze,342.0,0
+502,61,Mumbai,64905.56,Silver,544.0,0
+503,61,London,83204.44,Platinum,586.0,0
+504,22,New York,55214.06,Bronze,654.0,0
+505,56,Mumbai,45643.53,Silver,775.0,0
+506,21,Mumbai,50312.78,Gold,382.0,1
+507,23,London,81061.15,Platinum,409.0,1
+508,62,Paris,100666.11,Gold,489.0,1
+509,49,Tokyo,33724.84,Gold,550.0,0
+510,69,Tokyo,38093.97,Gold,590.0,0
+511,47,Mumbai,56624.06,Silver,500.0,0
+512,64,London,62219.12,Gold,625.0,0
+513,52,Tokyo,75739.39,Bronze,810.0,0
+514,72,,,Platinum,,0
+515,57,Paris,38737.82,Silver,807.0,0
+516,69,Tokyo,62761.74,Silver,371.0,0
+517,33,Mumbai,54831.99,Bronze,546.0,0
+518,30,Mumbai,78534.42,Gold,643.0,1
+519,67,New York,69747.2,Bronze,353.0,0
+520,59,Paris,71107.59,Gold,827.0,0
+521,47,New York,57910.37,Gold,831.0,1
+522,36,,,Bronze,,0
+523,34,New York,,Gold,,0
+524,73,New York,72216.2,Gold,736.0,0
+525,36,Tokyo,34606.2,Silver,410.0,0
+526,45,Mumbai,38530.65,Bronze,428.0,1
+527,72,Paris,47853.09,Bronze,625.0,0
+528,43,,,Bronze,,0
+529,54,Paris,65277.89,Bronze,,0
+530,43,New York,48190.44,Platinum,,0
+531,70,London,67488.73,Bronze,430.0,1
+532,40,New York,60702.96,Gold,487.0,0
+533,26,Tokyo,50160.53,Bronze,774.0,0
+534,29,Mumbai,32067.42,Silver,663.0,0
+535,70,London,88770.85,Gold,,0
+536,18,New York,64196.36,Gold,511.0,1
+537,18,Paris,103474.77,Bronze,575.0,0
+538,64,London,78806.43,Silver,372.0,0
+539,51,London,71026.39,Silver,542.0,0
+540,49,New York,51295.91,Bronze,401.0,0
+541,71,London,38093.09,Bronze,470.0,0
+542,65,Paris,55645.38,Silver,487.0,1
+543,42,London,,Silver,,0
+544,57,Paris,,Gold,,1
+545,62,New York,92653.05,Bronze,775.0,0
+546,70,Mumbai,54781.75,Silver,351.0,0
+547,18,London,78889.82,Silver,410.0,0
+548,33,Mumbai,46215.42,Gold,342.0,0
+549,56,Paris,,Gold,,1
+550,22,,,Silver,,0
+551,39,Tokyo,17337.34,Gold,325.0,0
+552,46,Mumbai,59269.33,Bronze,598.0,0
+553,72,London,62569.03,Silver,376.0,0
+554,20,Mumbai,81317.22,Bronze,436.0,0
+555,29,London,75908.77,Silver,,0
+556,43,New York,76179.06,Gold,739.0,0
+557,33,Mumbai,40519.28,Gold,510.0,0
+558,68,Tokyo,69189.95,Bronze,734.0,0
+559,54,Tokyo,91651.88,Silver,506.0,0
+560,39,Paris,67597.36,Silver,,0
+561,74,London,96571.87,Bronze,341.0,0
+562,46,Mumbai,100379.32,Bronze,710.0,1
+563,31,Paris,54630.63,Bronze,822.0,0
+564,45,Mumbai,46061.21,Bronze,726.0,0
+565,22,London,44770.76,Bronze,574.0,0
+566,64,Tokyo,29677.28,Bronze,747.0,0
+567,66,New York,49631.94,Bronze,668.0,0
+568,47,Tokyo,84153.31,Gold,519.0,0
+569,63,Paris,15919.25,Silver,531.0,0
+570,69,New York,39250.93,Platinum,627.0,0
+571,22,Paris,,Silver,,0
+572,29,London,42456.3,Gold,351.0,1
+573,33,New York,49454.28,Gold,675.0,1
+574,43,Paris,49753.41,Silver,562.0,0
+575,43,London,54849.2,Silver,566.0,0
+576,65,Tokyo,45410.91,Gold,658.0,1
+577,38,London,43775.74,Bronze,616.0,0
+578,56,Mumbai,78686.19,Bronze,623.0,1
+579,53,London,,Silver,,0
+580,50,London,32389.13,Silver,345.0,1
+581,47,Mumbai,4808.05,Bronze,568.0,0
+582,54,Paris,81267.5,Platinum,680.0,1
+583,40,Paris,35423.99,Silver,417.0,0
+584,27,London,64254.9,Silver,,0
+585,71,,,Platinum,,1
+586,22,Mumbai,85955.1,Silver,374.0,0
+587,53,Tokyo,110873.36,Platinum,779.0,0
+588,51,Paris,63656.14,Silver,604.0,0
+589,69,New York,58117.95,Bronze,306.0,0
+590,48,Paris,,Gold,,1
+591,27,Paris,,Silver,,0
+592,36,Tokyo,71353.74,Gold,647.0,0
+593,49,New York,80069.97,Platinum,737.0,0
+594,18,Tokyo,47441.67,Gold,514.0,0
+595,73,New York,66802.35,Silver,728.0,0
+596,22,London,49150.64,Gold,797.0,0
+597,62,New York,38845.69,Silver,839.0,0
+598,21,Tokyo,59179.69,Silver,666.0,1
+599,33,Paris,41549.75,Gold,612.0,0
+600,41,New York,83474.54,Bronze,,0
+601,33,New York,42761.59,Gold,353.0,1
+602,72,,,Gold,,0
+603,19,Paris,47931.55,Gold,766.0,1
+604,66,London,65541.26,Silver,463.0,0
+605,45,Tokyo,,Gold,,1
+606,49,London,34855.77,Silver,846.0,0
+607,44,Paris,69675.45,Gold,647.0,1
+608,37,New York,55291.69,Bronze,572.0,0
+609,41,New York,65719.7,Bronze,713.0,0
+610,29,Paris,51423.14,Bronze,799.0,0
+611,67,New York,33441.27,Silver,392.0,0
+612,52,New York,81663.57,Silver,378.0,0
+613,50,New York,74735.16,Gold,516.0,0
+614,50,Tokyo,48660.78,Silver,657.0,0
+615,68,Tokyo,61395.58,Silver,806.0,0
+616,60,Mumbai,80840.39,Bronze,480.0,0
+617,54,London,50859.23,Silver,545.0,0
+618,29,Paris,,Silver,,0
+619,20,Paris,64872.65,Bronze,805.0,0
+620,18,Paris,50818.18,Bronze,721.0,0
+621,50,Mumbai,77141.84,Bronze,619.0,0
+622,57,,,Bronze,,0
+623,27,Mumbai,44319.28,Silver,516.0,0
+624,60,Paris,72172.78,Bronze,789.0,1
+625,61,London,37157.39,Gold,818.0,0
+626,46,New York,100297.57,Gold,577.0,0
+627,30,,,Silver,,0
+628,29,Tokyo,70269.91,Platinum,629.0,0
+629,48,Mumbai,68586.62,Silver,740.0,0
+630,63,Tokyo,67648.83,Silver,690.0,0
+631,19,Paris,50218.1,Platinum,795.0,0
+632,68,Paris,65946.19,Bronze,680.0,0
+633,67,Mumbai,41537.35,Platinum,605.0,0
+634,52,Paris,70076.37,Bronze,812.0,0
+635,40,London,77356.94,Silver,487.0,0
+636,34,Mumbai,52438.28,Bronze,,0
+637,43,,,Gold,,1
+638,25,New York,35750.46,Silver,801.0,0
+639,46,London,89159.1,Gold,559.0,0
+640,43,New York,49686.72,Bronze,812.0,1
+641,27,New York,56025.22,Bronze,370.0,0
+642,43,London,66003.11,Bronze,777.0,0
+643,51,Mumbai,65644.15,Bronze,477.0,0
+644,68,Paris,74931.2,Platinum,756.0,1
+645,58,Paris,52413.4,Bronze,,0
+646,24,New York,37226.64,Gold,590.0,0
+647,21,New York,33726.69,Gold,819.0,0
+648,70,Mumbai,48414.9,Bronze,591.0,1
+649,67,Tokyo,40962.99,Silver,582.0,0
+650,62,London,53927.67,Bronze,843.0,0
+651,28,New York,86151.58,Bronze,676.0,1
+652,46,Paris,52454.44,Bronze,455.0,0
+653,73,Mumbai,,Silver,,0
+654,53,London,59672.02,Silver,712.0,0
+655,42,Mumbai,51887.5,Silver,827.0,0
+656,38,London,58652.18,Silver,654.0,1
+657,74,London,70817.38,Bronze,486.0,0
+658,53,New York,77695.02,Silver,330.0,1
+659,27,Mumbai,80064.26,Gold,559.0,0
+660,54,Mumbai,101137.04,Bronze,720.0,0
+661,26,,,Bronze,,1
+662,41,Paris,104689.58,Gold,603.0,0
+663,52,New York,,Bronze,,0
+664,66,New York,101825.7,Silver,788.0,0
+665,52,Tokyo,52392.48,Bronze,841.0,1
+666,65,Paris,54359.62,Bronze,577.0,0
+667,53,London,57602.55,Bronze,502.0,0
+668,35,Mumbai,55627.59,Bronze,365.0,0
+669,66,New York,61716.81,Silver,407.0,0
+670,56,Mumbai,48399.44,Silver,567.0,0
+671,49,Mumbai,76599.24,Gold,521.0,0
+672,41,Tokyo,48943.3,Gold,829.0,0
+673,40,Paris,73112.21,Silver,389.0,0
+674,49,New York,90554.47,Gold,554.0,0
+675,54,Mumbai,52857.95,Bronze,754.0,1
+676,29,New York,75887.67,Silver,552.0,0
+677,66,London,71183.19,Gold,556.0,1
+678,72,Tokyo,105057.74,Bronze,682.0,0
+679,30,,,Silver,,0
+680,40,New York,,Bronze,,1
+681,42,New York,27479.78,Silver,689.0,0
+682,52,Paris,50082.83,Gold,343.0,0
+683,58,Mumbai,67067.86,Gold,318.0,1
+684,47,Mumbai,87863.2,Gold,400.0,0
+685,34,London,35481.33,Gold,656.0,0
+686,66,Tokyo,75721.81,Silver,841.0,0
+687,37,Mumbai,58735.53,Silver,332.0,0
+688,65,,,Bronze,,0
+689,42,London,63631.74,Silver,823.0,0
+690,39,London,94183.22,Silver,454.0,0
+691,30,Paris,37591.55,Platinum,722.0,0
+692,36,Tokyo,57801.25,Silver,545.0,0
+693,66,Paris,,Silver,,0
+694,53,Tokyo,50628.34,Silver,840.0,0
+695,29,Paris,88643.4,Silver,460.0,0
+696,58,Paris,54569.51,Gold,416.0,0
+697,36,New York,88031.31,Bronze,570.0,0
+698,29,London,82181.08,Silver,786.0,0
+699,26,Paris,52745.24,Gold,471.0,0
+700,24,Paris,49948.01,Silver,573.0,1
+701,45,Mumbai,42080.02,Bronze,558.0,0
+702,31,London,41382.38,Silver,434.0,0
+703,48,Mumbai,67064.15,Gold,721.0,0
+704,69,London,59604.29,Bronze,720.0,0
+705,36,Mumbai,47527.89,Gold,485.0,1
+706,64,Paris,29024.74,Gold,663.0,1
+707,33,Paris,62123.58,Silver,677.0,0
+708,70,New York,50608.96,Platinum,822.0,0
+709,22,Mumbai,56094.05,Gold,495.0,1
+710,52,Tokyo,66093.24,Gold,397.0,1
+711,29,New York,9963.94,Gold,321.0,0
+712,42,Mumbai,29334.51,Bronze,749.0,0
+713,69,Mumbai,105928.86,Bronze,471.0,0
+714,38,New York,49867.79,Silver,,1
+715,53,Paris,,Bronze,,0
+716,70,Mumbai,31001.2,Silver,725.0,0
+717,40,Paris,109689.35,Gold,,0
+718,33,New York,45940.05,Gold,802.0,0
+719,74,Paris,83180.3,Silver,484.0,0
+720,56,London,62422.36,Gold,384.0,1
+721,62,Tokyo,50300.66,Gold,443.0,0
+722,70,Mumbai,75508.91,Silver,,0
+723,59,Tokyo,12312.87,Bronze,523.0,0
+724,56,Paris,31177.35,Silver,519.0,0
+725,31,Mumbai,50152.98,Gold,478.0,0
+726,48,Paris,33141.91,Silver,732.0,0
+727,22,London,48384.44,Silver,564.0,0
+728,52,New York,77074.26,Bronze,728.0,0
+729,40,Mumbai,62642.73,Gold,715.0,0
+730,46,London,86612.34,Gold,752.0,0
+731,60,London,63907.51,Gold,496.0,1
+732,28,Mumbai,79849.22,Platinum,352.0,1
+733,35,Paris,58718.59,Gold,779.0,0
+734,64,London,48194.49,Platinum,742.0,0
+735,29,Tokyo,89611.36,Platinum,629.0,1
+736,26,London,45812.99,Gold,550.0,0
+737,27,Paris,66876.9,Silver,422.0,1
+738,61,,,Bronze,,1
+739,34,Tokyo,76829.85,Silver,638.0,0
+740,55,London,36691.15,Silver,647.0,0
+741,24,,,Bronze,,1
+742,63,Mumbai,,Bronze,,0
+743,30,New York,76214.07,Platinum,817.0,0
+744,57,New York,70703.47,Gold,695.0,0
+745,59,New York,76372.61,Gold,593.0,0
+746,26,London,35899.93,Silver,648.0,0
+747,67,Tokyo,71758.59,Bronze,446.0,0
+748,44,Paris,81711.87,Bronze,366.0,1
+749,19,Mumbai,63867.92,Bronze,819.0,0
+750,22,Mumbai,43627.67,Bronze,421.0,0
+751,46,London,78394.95,Bronze,639.0,0
+752,54,New York,62278.39,Platinum,474.0,0
+753,55,London,26511.11,Gold,750.0,0
+754,36,Tokyo,,Bronze,,1
+755,25,Tokyo,49474.11,Bronze,315.0,1
+756,65,Paris,90116.37,Silver,632.0,0
+757,62,Paris,86603.66,Bronze,494.0,0
+758,18,Tokyo,86539.37,Platinum,795.0,0
+759,39,Tokyo,64647.21,Silver,308.0,0
+760,69,Tokyo,78271.9,Silver,633.0,0
+761,34,London,37184.41,Bronze,632.0,0
+762,24,,,Bronze,,1
+763,42,Mumbai,69032.65,Silver,314.0,0
+764,62,New York,38502.02,Gold,525.0,0
+765,21,Tokyo,,Silver,,0
+766,53,New York,93732.78,Bronze,707.0,0
+767,23,London,71175.4,Silver,412.0,0
+768,48,New York,78350.9,Silver,727.0,0
+769,36,London,10951.86,Gold,300.0,0
+770,61,Mumbai,91159.38,Bronze,565.0,0
+771,71,London,56277.55,Bronze,790.0,0
+772,56,London,44626.27,Silver,507.0,0
+773,44,Paris,56507.24,Silver,668.0,0
+774,27,Tokyo,30299.56,Silver,605.0,0
+775,43,Tokyo,80958.84,Silver,311.0,1
+776,36,Mumbai,53292.09,Silver,644.0,0
+777,56,Mumbai,45227.38,Gold,764.0,0
+778,20,Tokyo,56638.9,Silver,793.0,0
+779,62,Paris,82360.31,Platinum,667.0,0
+780,30,Tokyo,62629.17,Silver,719.0,0
+781,67,Paris,31806.12,Platinum,470.0,0
+782,45,Mumbai,69299.62,Gold,433.0,0
+783,37,New York,41420.4,Bronze,726.0,0
+784,45,Mumbai,16877.98,Gold,324.0,1
+785,25,Mumbai,89920.14,Bronze,829.0,0
+786,58,London,69144.6,Platinum,489.0,1
+787,56,London,58434.59,Silver,440.0,0
+788,18,London,,Bronze,,0
+789,20,London,87941.59,Silver,743.0,1
+790,30,Paris,121743.1,Platinum,618.0,0
+791,45,Tokyo,68975.61,Bronze,740.0,0
+792,74,New York,39407.31,Silver,391.0,0
+793,66,Mumbai,56910.69,Gold,478.0,0
+794,42,Paris,68611.45,Gold,355.0,0
+795,73,New York,13009.43,Silver,454.0,0
+796,50,Paris,66689.98,Bronze,410.0,1
+797,55,Paris,68728.5,Bronze,436.0,0
+798,70,Mumbai,86526.84,Silver,531.0,1
+799,23,Tokyo,84442.47,Silver,767.0,1
+800,61,London,62223.44,Platinum,780.0,0
+801,62,Tokyo,90292.74,Bronze,,0
+802,49,Mumbai,100713.57,Silver,548.0,1
+803,62,Mumbai,60559.03,Bronze,622.0,1
+804,64,Mumbai,68363.74,Bronze,817.0,0
+805,38,New York,24654.05,Silver,731.0,0
+806,33,Tokyo,30980.53,Silver,786.0,0
+807,71,Tokyo,43236.07,Silver,728.0,0
+808,38,Paris,51127.63,Platinum,568.0,0
+809,28,Paris,38077.54,Silver,836.0,0
+810,54,Paris,59280.09,Platinum,447.0,0
+811,53,Mumbai,51725.82,Gold,,0
+812,52,,,Silver,,0
+813,36,Mumbai,50504.53,Gold,365.0,0
+814,37,New York,14265.64,Silver,669.0,0
+815,74,Paris,62515.02,Bronze,474.0,0
+816,35,Mumbai,59716.04,Gold,794.0,0
+817,64,Mumbai,42759.0,Bronze,,0
+818,58,New York,61900.0,Silver,410.0,0
+819,66,London,38494.71,Gold,738.0,1
+820,31,Tokyo,66596.8,Bronze,446.0,0
+821,32,London,,Bronze,,0
+822,48,Paris,23887.89,Platinum,608.0,0
+823,18,Mumbai,49675.16,Silver,,1
+824,70,New York,46469.9,Bronze,,0
+825,71,New York,51334.8,Silver,673.0,0
+826,71,Tokyo,80398.49,Silver,727.0,0
+827,20,London,,Silver,,0
+828,33,Tokyo,76975.33,Platinum,739.0,0
+829,40,Mumbai,60609.91,Silver,801.0,0
+830,74,Tokyo,33558.01,Bronze,574.0,0
+831,28,New York,37706.29,Gold,375.0,0
+832,29,New York,74925.19,Gold,738.0,0
+833,27,Paris,63416.64,Bronze,588.0,0
+834,49,Paris,85204.15,Bronze,839.0,1
+835,33,Mumbai,65865.24,Bronze,552.0,0
+836,25,London,36339.7,Silver,425.0,1
+837,55,Tokyo,49561.96,Silver,476.0,0
+838,29,,,Silver,,0
+839,41,Paris,74206.65,Platinum,709.0,0
+840,45,Tokyo,77102.17,Gold,426.0,1
+841,70,Paris,39029.52,Bronze,782.0,0
+842,25,Tokyo,35979.4,Bronze,467.0,0
+843,45,London,56203.95,Silver,593.0,0
+844,53,Mumbai,88801.47,Bronze,642.0,0
+845,43,Tokyo,46122.63,Silver,609.0,0
+846,25,New York,69099.44,Gold,827.0,0
+847,67,New York,69101.22,Bronze,839.0,0
+848,45,Tokyo,75215.45,Silver,718.0,0
+849,45,Tokyo,93288.81,Gold,743.0,0
+850,54,Tokyo,91238.13,Silver,,0
+851,58,New York,48107.88,Bronze,738.0,0
+852,53,New York,18042.09,Silver,513.0,0
+853,44,Tokyo,46429.41,Bronze,384.0,0
+854,71,Paris,61513.45,Platinum,384.0,0
+855,34,Paris,52767.09,Bronze,788.0,1
+856,26,London,99357.98,Silver,364.0,1
+857,50,Mumbai,60375.61,Silver,363.0,1
+858,70,Paris,73074.24,Platinum,642.0,0
+859,37,New York,64344.29,Bronze,651.0,0
+860,30,,,Bronze,,0
+861,45,London,21503.77,Bronze,790.0,0
+862,65,London,58427.65,Bronze,762.0,0
+863,46,Mumbai,125092.95,Bronze,524.0,0
+864,30,Paris,35110.83,Silver,612.0,1
+865,63,New York,23702.54,Bronze,765.0,1
+866,52,New York,98727.79,Bronze,387.0,0
+867,23,Tokyo,,Gold,,0
+868,35,New York,63748.4,Bronze,,0
+869,68,Mumbai,87253.48,Bronze,434.0,0
+870,22,Mumbai,43369.96,Bronze,349.0,0
+871,64,New York,57868.1,Platinum,731.0,0
+872,42,New York,79103.08,Bronze,639.0,0
+873,19,Tokyo,102207.09,Gold,646.0,0
+874,27,New York,36629.11,Gold,646.0,0
+875,73,Tokyo,85614.69,Bronze,544.0,0
+876,47,Tokyo,67636.78,Platinum,408.0,0
+877,67,New York,63261.22,Bronze,832.0,1
+878,62,London,59845.42,Bronze,389.0,0
+879,22,London,32307.07,Gold,595.0,0
+880,72,Tokyo,,Gold,,0
+881,73,New York,44354.62,Silver,476.0,0
+882,50,London,38406.19,Bronze,642.0,1
+883,71,New York,77709.18,Silver,400.0,0
+884,18,,,Gold,,0
+885,35,New York,61580.0,Bronze,327.0,0
+886,49,Paris,81590.87,Bronze,836.0,1
+887,64,New York,88518.73,Bronze,357.0,0
+888,66,Paris,86164.48,Bronze,797.0,0
+889,28,Tokyo,49434.42,Gold,596.0,0
+890,38,London,80282.1,Silver,433.0,0
+891,43,London,64232.82,Platinum,630.0,0
+892,42,London,94518.16,Bronze,548.0,0
+893,39,London,57525.43,Gold,,0
+894,44,London,52870.57,Bronze,,1
+895,66,London,47724.06,Bronze,467.0,0
+896,30,London,63785.76,Bronze,802.0,0
+897,50,Tokyo,69334.51,Bronze,654.0,0
+898,51,New York,69719.25,Silver,524.0,0
+899,58,Mumbai,66983.45,Platinum,830.0,0
+900,52,,,Silver,,0
+901,18,Mumbai,55549.16,Bronze,540.0,0
+902,38,,,Bronze,,0
+903,65,,,Bronze,,0
+904,72,New York,79501.02,Silver,300.0,0
+905,23,New York,69406.45,Gold,452.0,0
+906,45,London,22883.24,Platinum,728.0,0
+907,34,Tokyo,81935.07,Bronze,807.0,0
+908,22,London,97608.7,Silver,425.0,1
+909,48,Tokyo,45681.66,Silver,790.0,1
+910,22,Tokyo,66723.2,Silver,781.0,0
+911,55,Mumbai,50530.84,Silver,644.0,0
+912,20,Mumbai,72566.14,Silver,520.0,0
+913,70,Tokyo,36679.82,Silver,324.0,1
+914,40,Tokyo,58571.09,Bronze,827.0,0
+915,54,London,79626.28,Gold,,0
+916,70,London,84714.23,Bronze,798.0,0
+917,54,Mumbai,68529.92,Silver,341.0,1
+918,27,New York,53219.09,Silver,,0
+919,27,Tokyo,28147.98,Silver,738.0,0
+920,36,London,44849.01,Platinum,701.0,0
+921,34,Mumbai,50614.53,Gold,845.0,0
+922,38,London,46045.32,Gold,644.0,0
+923,31,Tokyo,61191.06,Silver,344.0,0
+924,26,Tokyo,53162.25,Gold,320.0,0
+925,63,,,Silver,,0
+926,18,New York,84052.55,Gold,347.0,0
+927,68,Paris,51870.76,Silver,790.0,0
+928,62,Mumbai,32342.66,Platinum,586.0,0
+929,30,London,45965.85,Platinum,309.0,0
+930,21,Mumbai,71671.77,Gold,841.0,0
+931,18,Tokyo,73558.88,Bronze,573.0,0
+932,66,Paris,68121.7,Bronze,680.0,0
+933,57,Paris,86014.75,Gold,628.0,0
+934,49,Paris,56272.74,Bronze,778.0,1
+935,51,Mumbai,101043.32,Gold,314.0,0
+936,45,Tokyo,76363.74,Silver,815.0,0
+937,48,London,9530.25,Silver,,0
+938,25,London,96013.17,Platinum,467.0,0
+939,56,,,Silver,,1
+940,43,Paris,39317.98,Silver,436.0,1
+941,51,New York,70475.42,Silver,453.0,0
+942,71,Mumbai,25236.39,Bronze,687.0,0
+943,71,Mumbai,46090.62,Gold,508.0,0
+944,20,Tokyo,91141.97,Bronze,571.0,0
+945,67,London,71124.35,Platinum,442.0,0
+946,29,Mumbai,76244.8,Gold,368.0,0
+947,18,Mumbai,46861.79,Bronze,546.0,0
+948,71,,,Gold,,0
+949,61,Paris,74136.35,Silver,378.0,1
+950,22,New York,78605.12,Bronze,824.0,0
+951,47,Tokyo,77699.87,Platinum,629.0,1
+952,47,New York,64181.38,Bronze,488.0,0
+953,74,Paris,40658.64,Bronze,394.0,0
+954,34,London,108755.39,Silver,307.0,0
+955,65,Paris,69595.75,Silver,366.0,0
+956,64,Tokyo,56522.27,Silver,795.0,0
+957,40,Paris,56611.02,Gold,490.0,0
+958,32,Tokyo,62991.95,Silver,665.0,1
+959,54,Tokyo,81392.17,Silver,820.0,0
+960,38,Tokyo,63792.56,Bronze,,0
+961,31,Tokyo,77170.26,Bronze,566.0,1
+962,19,Tokyo,63027.95,Bronze,784.0,0
+963,28,London,57752.92,Bronze,808.0,0
+964,68,New York,72825.01,Silver,597.0,0
+965,56,Mumbai,72065.72,Bronze,463.0,1
+966,55,New York,56607.32,Bronze,675.0,1
+967,51,Tokyo,45015.86,Bronze,567.0,1
+968,55,London,66834.58,Platinum,848.0,0
+969,67,Paris,61566.97,Platinum,373.0,1
+970,51,London,48902.57,Silver,807.0,0
+971,35,Tokyo,43151.99,Platinum,372.0,0
+972,47,London,68209.52,Gold,607.0,0
+973,32,London,71001.9,Silver,498.0,0
+974,44,,,Bronze,,1
+975,68,,,Gold,,1
+976,51,Mumbai,43394.9,Gold,450.0,0
+977,69,Mumbai,67645.1,Silver,505.0,0
+978,74,London,43920.46,Gold,478.0,0
+979,55,Paris,104822.69,Silver,,1
+980,50,Tokyo,51794.37,Gold,388.0,0
+981,41,Mumbai,11495.71,Platinum,733.0,0
+982,32,Paris,59396.57,Bronze,482.0,0
+983,47,London,58539.33,Gold,508.0,0
+984,72,Paris,82234.37,Silver,792.0,0
+985,59,New York,65762.52,Silver,429.0,1
+986,68,Mumbai,43323.3,Gold,,0
+987,34,,,Bronze,,0
+988,22,Tokyo,66548.4,Silver,674.0,0
+989,46,London,16705.71,Bronze,398.0,0
+990,21,Tokyo,86772.43,Silver,491.0,1
+991,27,London,43376.6,Silver,624.0,0
+992,73,Paris,88340.88,Gold,766.0,0
+993,34,Paris,67849.3,Bronze,666.0,0
+994,27,Paris,72591.88,Silver,617.0,0
+995,34,New York,82988.47,Bronze,443.0,0
+996,37,Tokyo,71462.64,Gold,,0
+997,41,Paris,73457.72,Platinum,515.0,0
+998,22,New York,56711.67,Platinum,660.0,0
+999,51,Tokyo,,Gold,,0
+1000,23,London,48250.04,Gold,314.0,0
